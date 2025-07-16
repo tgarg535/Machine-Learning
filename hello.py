@@ -1,2 +1,0 @@
-a = 'kaliya'
-b = 'bash'
